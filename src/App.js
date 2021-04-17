@@ -52,7 +52,7 @@ function App() {
      <br/>
      </div>
  
-      <ul style={{paddingTop:'15em'}}>
+      <ul style={{paddingTop:'15em',width:"100%"}}>
         {todos.map((obj) => {    //from todos array we are taking each obj{id: , todo: }
           return <Todo todo={obj}/>
           })

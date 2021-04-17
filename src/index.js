@@ -11,7 +11,7 @@ ReactDOM.render(
       position:"fixed",
       width:'100%',
       top:0,
- backgroundColor: "#C4B5FD"}}
+ backgroundColor: "white"}}
       >
     </BottomNavigation>
     <App />
